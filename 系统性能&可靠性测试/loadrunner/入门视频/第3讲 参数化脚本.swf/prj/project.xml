@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第3讲 参数化脚本</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="27:27.360" type="OL">
+		<item>
+			<title>欢迎</title>
+			<recdate>2008-5-10 17:43:34</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>上节回顾</title>
+			<recdate>2008-5-10 17:43:46</recdate>
+			<pos>12480</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-10 19:30:46</recdate>
+			<pos>77248</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参数化介绍</title>
+			<recdate>2008-5-10 17:49:35</recdate>
+			<pos>137472</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...参数化脚本</title>
+			<recdate>2008-5-10 18:32:25</recdate>
+			<pos>163200</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...执行脚本</title>
+			<recdate>2008-5-10 18:36:52</recdate>
+			<pos>401984</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参数化实战</title>
+			<recdate>2008-5-10 18:44:54</recdate>
+			<pos>734528</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...文件化脚本</title>
+			<recdate>2008-5-10 18:45:46</recdate>
+			<pos>757632</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...创建与执行场景</title>
+			<recdate>2008-5-10 18:52:21</recdate>
+			<pos>1099456</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...检查执行结果</title>
+			<recdate>2008-5-10 18:58:40</recdate>
+			<pos>1416384</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-10 19:13:09</recdate>
+			<pos>1536000</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-10 19:04:28</recdate>
+			<pos>1587136</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-10 19:04:38</recdate>
+			<pos>1597120</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>下节课介绍</title>
+			<recdate>2008-5-10 19:05:02</recdate>
+			<pos>1620672</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-10 19:05:24</recdate>
+			<pos>1642624</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>

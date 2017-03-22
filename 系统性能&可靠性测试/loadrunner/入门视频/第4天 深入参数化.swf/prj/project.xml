@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第4讲 深入参数化</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="1:04:59.776" type="OL">
+		<item>
+			<title>欢迎</title>
+			<recdate>2008-5-11 12:17:42</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>上节回顾</title>
+			<recdate>2008-5-11 12:21:31</recdate>
+			<pos>11264</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业点评</title>
+			<recdate>2008-5-11 12:23:20</recdate>
+			<pos>53952</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-11 12:24:57</recdate>
+			<pos>87040</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>读取参数内容</title>
+			<recdate>2008-5-11 13:02:47</recdate>
+			<pos>159168</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...录制脚本</title>
+			<recdate>2008-5-11 13:06:49</recdate>
+			<pos>175296</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...参数化脚本</title>
+			<recdate>2008-5-11 13:58:18</recdate>
+			<pos>339008</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...读取参数</title>
+			<recdate>2008-5-11 14:01:46</recdate>
+			<pos>660480</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...运行脚本</title>
+			<recdate>2008-5-11 14:06:28</recdate>
+			<pos>1075008</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>参数化详解</title>
+			<recdate>2008-5-11 22:38:59</recdate>
+			<pos>1297344</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...顺序/迭代</title>
+			<recdate>2008-5-11 23:12:41</recdate>
+			<pos>1326144</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...顺序/一次</title>
+			<recdate>2008-5-11 23:17:10</recdate>
+			<pos>1646848</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...唯一/迭代</title>
+			<recdate>2008-5-11 23:18:38</recdate>
+			<pos>1879936</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...唯一/一次</title>
+			<recdate>2008-5-11 23:21:12</recdate>
+			<pos>2228224</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...顺序/遇到</title>
+			<recdate>2008-5-11 23:23:21</recdate>
+			<pos>2509952</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>...唯一/遇到</title>
+			<recdate>2008-5-11 23:27:28</recdate>
+			<pos>2815360</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-11 23:40:01</recdate>
+			<pos>3454592</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-12 0:04:53</recdate>
+			<pos>3654016</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-12 0:07:48</recdate>
+			<pos>3663936</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>下节课介绍</title>
+			<recdate>2008-5-12 0:11:40</recdate>
+			<pos>3873088</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-12 0:12:00</recdate>
+			<pos>3893440</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+    <title>bg_title.jpg</title>
+    <background align="3" color="0xFFFFFF" border="0x55AAFF">bg_main.jpg</background>
+    <slide border="0xC0C0C0"/>
+    <photo bgcolor="0xf6f6f6" bgsrc="bg_photo.gif" border="0xC0C0C0" align="1" width="160" height="120">photo.jpg</photo>
+    <outline border=""/>
+</powercam>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第2讲 VuGen使用基础</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试，VuGen</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="1:00:13.248" type="OL">
+		<item>
+			<title>欢迎</title>
+			<recdate>2008-5-10 12:51:05</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节简介</title>
+			<recdate>2008-5-10 17:12:02</recdate>
+			<pos>11840</pos>
+			<size>1064x800</size>
+		</item>
+		<item>
+			<title>创建虚拟用户</title>
+			<recdate>2008-5-10 13:55:47</recdate>
+			<pos>103424</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...录制脚本</title>
+			<recdate>2008-5-10 13:58:49</recdate>
+			<pos>780160</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...回放脚本</title>
+			<recdate>2008-5-10 14:02:06</recdate>
+			<pos>1460032</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...小结</title>
+			<recdate>2008-5-10 13:31:32</recdate>
+			<pos>2013312</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>实战演练</title>
+			<recdate>2008-5-10 15:57:02</recdate>
+			<pos>2140608</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...录制注意事项</title>
+			<recdate>2008-5-10 15:58:07</recdate>
+			<pos>2179840</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...VuGen发送邮件</title>
+			<recdate>2008-5-10 16:00:59</recdate>
+			<pos>2307136</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...Controller发送邮件</title>
+			<recdate>2008-5-10 16:16:27</recdate>
+			<pos>2979968</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...小结</title>
+			<recdate>2008-5-10 16:30:04</recdate>
+			<pos>3405568</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-10 16:49:14</recdate>
+			<pos>3417792</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-10 16:37:52</recdate>
+			<pos>3512960</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-10 16:38:05</recdate>
+			<pos>3525568</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>下节课介绍</title>
+			<recdate>2008-5-10 16:38:31</recdate>
+			<pos>3551808</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-10 16:39:57</recdate>
+			<pos>3605632</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>

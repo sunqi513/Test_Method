@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第6讲 自动关联技术</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="1:01:49.056" type="OL">
+		<item>
+			<title>欢迎</title>
+			<recdate>2008-5-18 15:08:44</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>上节回顾</title>
+			<recdate>2008-5-18 15:08:55</recdate>
+			<pos>10624</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业点评</title>
+			<recdate>2008-5-18 15:10:32</recdate>
+			<pos>107840</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-18 15:22:49</recdate>
+			<pos>180416</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...创建测试数据</title>
+			<recdate>2008-5-18 17:31:59</recdate>
+			<pos>350336</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...创建删除脚本1</title>
+			<recdate>2008-5-18 17:39:00</recdate>
+			<pos>736704</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...自动关联1</title>
+			<recdate>2008-5-18 17:56:15</recdate>
+			<pos>1329024</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...创建删除脚本2</title>
+			<recdate>2008-5-18 19:58:02</recdate>
+			<pos>2322368</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...自动关联2</title>
+			<recdate>2008-5-18 22:29:31</recdate>
+			<pos>2922432</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-18 22:31:18</recdate>
+			<pos>3555520</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-18 22:32:16</recdate>
+			<pos>3613952</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作 业</title>
+			<recdate>2008-5-18 22:32:24</recdate>
+			<pos>3621888</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>下节课介绍</title>
+			<recdate>2008-5-18 22:33:23</recdate>
+			<pos>3680448</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-18 22:33:45</recdate>
+			<pos>3703040</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>

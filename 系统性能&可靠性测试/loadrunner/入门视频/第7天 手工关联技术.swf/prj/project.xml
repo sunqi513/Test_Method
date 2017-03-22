@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第7讲 手工关联技术</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="39:49.184" type="OL">
+		<item>
+			<title>index 1</title>
+			<recdate>2008-5-18 22:38:43</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>上节回顾</title>
+			<recdate>2008-5-18 22:38:53</recdate>
+			<pos>9856</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业点评</title>
+			<recdate>2008-5-18 22:39:20</recdate>
+			<pos>36672</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-18 22:39:34</recdate>
+			<pos>50688</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...手工关联</title>
+			<recdate>2008-5-18 22:46:01</recdate>
+			<pos>80576</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...删除邮件</title>
+			<recdate>2008-5-18 23:14:47</recdate>
+			<pos>1184000</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-19 0:06:50</recdate>
+			<pos>2151104</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-19 0:07:13</recdate>
+			<pos>2174336</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-19 0:11:40</recdate>
+			<pos>2180224</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>课程回顾与后继课程介绍</title>
+			<recdate>2008-5-19 0:13:00</recdate>
+			<pos>2260416</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-19 0:18:50</recdate>
+			<pos>2382592</pos>
+			<size>1064x800</size>
+		</item>
+	</index>
+</powercam>

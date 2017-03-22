@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第5讲 检查点</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="55:22.176" type="OL">
+		<item>
+			<title>欢迎</title>
+			<recdate>2008-5-17 19:45:58</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>上节回顾</title>
+			<recdate>2008-5-17 19:46:11</recdate>
+			<pos>12544</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业点评</title>
+			<recdate>2008-5-17 19:47:39</recdate>
+			<pos>100416</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...注册脚本</title>
+			<recdate>2008-5-17 19:48:23</recdate>
+			<pos>123392</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...订票脚本</title>
+			<recdate>2008-5-17 23:08:56</recdate>
+			<pos>872128</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-17 23:14:41</recdate>
+			<pos>1259520</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...web_find</title>
+			<recdate>2008-5-18 14:40:47</recdate>
+			<pos>1307648</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...web_reg_find</title>
+			<recdate>2008-5-18 12:25:54</recdate>
+			<pos>2205376</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...二者区别</title>
+			<recdate>2008-5-18 12:38:21</recdate>
+			<pos>2897152</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本节内容</title>
+			<recdate>2008-5-17 23:39:50</recdate>
+			<pos>3209792</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-17 23:39:52</recdate>
+			<pos>3211328</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-17 23:40:37</recdate>
+			<pos>3256896</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-17 23:40:45</recdate>
+			<pos>3264768</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>下节课介绍</title>
+			<recdate>2008-5-17 23:41:19</recdate>
+			<pos>3298304</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-17 23:41:35</recdate>
+			<pos>3314816</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>

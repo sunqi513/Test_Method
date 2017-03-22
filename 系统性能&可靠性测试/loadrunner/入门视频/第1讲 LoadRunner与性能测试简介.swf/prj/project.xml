@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<powercam ver="5.1.80229">
+	<abstract>
+		<title>第1讲 LoadRunner与性能测试简介</title>
+		<author>陈绍英</author>
+		<manager>
+		</manager>
+		<company>ITCAST</company>
+		<category>其他</category>
+		<keywords>测试，LoadRunner，性能测试</keywords>
+		<comments>
+		</comments>
+	</abstract>
+	<configure>
+		<profile>
+			<audio>
+				<codec>mp3</codec>
+				<bitrate>32</bitrate>
+				<channel>1</channel>
+				<samplerate>32000</samplerate>
+			</audio>
+			<video>
+				<codec>xvid</codec>
+				<bitrate>64</bitrate>
+				<size>
+				</size>
+				<preview>0</preview>
+			</video>
+		</profile>
+		<template>bird</template>
+		<photo size="160x120">photo.jpg</photo>
+		<sound volume="3">
+		</sound>
+		<showcursor>1</showcursor>
+	</configure>
+	<sequencing>
+	</sequencing>
+	<index duration="47:44" type="OL">
+		<item>
+			<title>欢迎与课程介绍</title>
+			<recdate>2008-5-3 16:42:41</recdate>
+			<pos>0</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...课程总体介绍</title>
+			<recdate>2008-5-3 16:42:51</recdate>
+			<pos>9920</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...学习本套课程意义</title>
+			<recdate>2008-5-3 16:42:57</recdate>
+			<pos>15552</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...课程开发计划</title>
+			<recdate>2008-5-3 21:31:32</recdate>
+			<pos>86912</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>本门课程主要内容</title>
+			<recdate>2008-5-3 22:29:28</recdate>
+			<pos>137536</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...学习目标</title>
+			<recdate>2008-5-3 16:45:57</recdate>
+			<pos>214400</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...学习指导</title>
+			<recdate>2008-5-3 16:46:46</recdate>
+			<pos>262912</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>LoadRunner使用演示</title>
+			<recdate>2008-5-3 16:50:06</recdate>
+			<pos>365056</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...脚本录制演示</title>
+			<recdate>2008-5-3 17:56:22</recdate>
+			<pos>396800</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...保存脚本</title>
+			<recdate>2008-5-3 17:03:45</recdate>
+			<pos>866688</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...Controller演示</title>
+			<recdate>2008-5-3 21:06:00</recdate>
+			<pos>890176</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...Analysis演示</title>
+			<recdate>2008-5-3 21:16:26</recdate>
+			<pos>1213440</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>LoadRunner整体介绍</title>
+			<recdate>2008-5-3 17:16:59</recdate>
+			<pos>1560128</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...LoadRunner特点</title>
+			<recdate>2008-5-3 17:17:12</recdate>
+			<pos>1567040</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...LoadRunner体系结构</title>
+			<recdate>2008-5-3 17:18:46</recdate>
+			<pos>1656704</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...LoadRunner的工作原理图</title>
+			<recdate>2008-5-3 17:20:36</recdate>
+			<pos>1764544</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...LoadRunner性能测试的工作流程</title>
+			<recdate>2008-5-3 17:21:56</recdate>
+			<pos>1844736</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...性能测试需要团队的协作与配合</title>
+			<recdate>2008-5-3 17:22:37</recdate>
+			<pos>1885568</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...团队成员角色与参与阶段</title>
+			<recdate>2008-5-3 17:24:36</recdate>
+			<pos>2005312</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>性能测试基础知识</title>
+			<recdate>2008-5-3 17:27:48</recdate>
+			<pos>2065280</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...主要内容</title>
+			<recdate>2008-5-3 17:27:54</recdate>
+			<pos>2071680</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...性能测试基本概念</title>
+			<recdate>2008-5-3 17:28:03</recdate>
+			<pos>2080448</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...响应时间的分解</title>
+			<recdate>2008-5-3 17:32:27</recdate>
+			<pos>2344320</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...性能测试的分类</title>
+			<recdate>2008-5-3 17:37:26</recdate>
+			<pos>2379712</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>...性能测试的应用领域</title>
+			<recdate>2008-5-3 17:41:42</recdate>
+			<pos>2593728</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>总结</title>
+			<recdate>2008-5-3 17:45:17</recdate>
+			<pos>2708864</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>作业</title>
+			<recdate>2008-5-3 17:45:47</recdate>
+			<pos>2738112</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>参考资料</title>
+			<recdate>2008-5-3 17:46:21</recdate>
+			<pos>2772416</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>联系方式</title>
+			<recdate>2008-5-3 17:46:56</recdate>
+			<pos>2807552</pos>
+			<size>1024x768</size>
+		</item>
+		<item>
+			<title>致谢</title>
+			<recdate>2008-5-3 17:47:47</recdate>
+			<pos>2857088</pos>
+			<size>1024x768</size>
+		</item>
+	</index>
+</powercam>
